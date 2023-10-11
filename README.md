@@ -1,16 +1,25 @@
-### Hi there 👋
+      :::::::  :::    ::: :::::::::  ::::::::::     :::     :::::::::  :::::::::  :::::::::: :::::::::: :::::::::: 
+    :+:   :+: :+:    :+: :+:    :+: :+:          :+: :+:   :+:    :+: :+:    :+: :+:        :+:        :+:         
+   +:+   +:+  +:+  +:+  +:+    +:+ +:+         +:+   +:+  +:+    +:+ +:+    +:+ +:+        +:+        +:+          
+  +#+   +:+   +#++:+   +#+    +:+ +#++:++#   +#++:++#++: +#+    +:+ +#++:++#+  +#++:++#   +#++:++#   :#::+::#      
+ +#+   +#+  +#+  +#+  +#+    +#+ +#+        +#+     +#+ +#+    +#+ +#+    +#+ +#+        +#+        +#+            
+#+#   #+# #+#    #+# #+#    #+# #+#        #+#     #+# #+#    #+# #+#    #+# #+#        #+#        #+#             
+#######  ###    ### #########  ########## ###     ### #########  #########  ########## ########## ###    
 
-<!--
-**leonazava/leonazava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=computers+want+to+talk+to+each+other)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+🕸️ **Some of the things I'm working on**:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `🕷️` **`homebin`**<br>
+\\___[ (WIP) My main toolbox<br>
+
+- `🕸️` **`fragile`**<br>
+\\___[ (WIP) OS job scheduler; an even simpler, homebrewed Nomad<br>
+
+- `🕸️` **`home-ops`**<br>
+\\___[ (WIP) a collection of configs for running my homelab<br>
+
+📝 **Blog**: I might write something in there one day.
+
+## `👨‍💻` DEVELOPMENT
+[![](https://skillicons.dev/icons?i=c,cpp,fortran,swift,go,python,solidjs,docker,kubernetes,kafka,bash,neovim,aws,azure,linux,raspberrypi)](https://skillicons.dev)
