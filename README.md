@@ -21,7 +21,7 @@
 - 🕸️ **`home-ops`**<br>
 \\___[ (WIP) a collection of configs for running my homelab<br>
 
-📝 **Blog**: I might write something in there one day.
+📝 **Blog**: I might write something (https://nextjs-blog-6gx4di0so-ralmayer.vercel.app/)[in there] one day.
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cpp,fortran,swift,go,python,solidjs,docker,kubernetes,kafka,bash,neovim,aws,azure,linux,raspberrypi)](https://skillicons.dev)
