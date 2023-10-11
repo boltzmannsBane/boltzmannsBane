@@ -24,4 +24,4 @@
 📝 **Blog**: I might write something [in there](https://nextjs-blog-6gx4di0so-ralmayer.vercel.app/) one day.
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,fortran,swift,go,python,solidjs,docker,kubernetes,kafka,bash,neovim,aws,azure,linux,raspberrypi)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cpp,fortran,swift,go,python,docker,kubernetes,kafka,aws,azure,linux,bash,neovim,raspberrypi&perline=3)](https://skillicons.dev)
